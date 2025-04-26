@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and cyber security
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me whatsapp: 09034966219
+- 📫 How to reach me whatsapp: +2349034966219
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
