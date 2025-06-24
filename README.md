@@ -5,15 +5,20 @@
 🔥 I’m currently building my personal brand: tekcybe — a name that represents my passion for tech and cyber innovation.
 
 🎯 My ultimate goal is to contribute to projects that empower people and communities through meaningful technology.
+
 🛠️ Technologies & Tools
+
 📁 Featured Projects
 Project	Description	Tech
+
 💼 Work In Progress
 👷 Building my personal site: tekcybe.dev (Coming soon!)
 🧪 Exploring AI + Backend integrations
 📖 Contributing to open-source tools for digital accessibility
+
 📫 How to Reach Me
 🧠 Fun Facts
+
 💻 I started learning software engineering to create change, not just code.
 🔭 The name tekcybe reflects my mission: tech for cyber and beyond.
 🧩 I love turning ideas into systems — especially with clean, maintainable code.
