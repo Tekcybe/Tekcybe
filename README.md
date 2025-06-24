@@ -1,6 +1,9 @@
 💡 I’m a proud learner of the ALX Back-End Web Development Program, where I’m building a strong foundation in software engineering.
+
 🚀 What drives me? Solving real-world problems using technology. I believe in using code as a tool for innovation, efficiency, and human growth.
+
 🔥 I’m currently building my personal brand: tekcybe — a name that represents my passion for tech and cyber innovation.
+
 🎯 My ultimate goal is to contribute to projects that empower people and communities through meaningful technology.
 🛠️ Technologies & Tools
 📁 Featured Projects
