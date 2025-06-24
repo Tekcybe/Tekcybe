@@ -17,12 +17,17 @@ Project	Description	Tech
 📖 Contributing to open-source tools for digital accessibility
 
 📫 How to Reach Me
+
 🧠 Fun Facts
 
 💻 I started learning software engineering to create change, not just code.
+
 🔭 The name tekcybe reflects my mission: tech for cyber and beyond.
+
 🧩 I love turning ideas into systems — especially with clean, maintainable code.
+
 📊 GitHub Stats
+
 🧭 Motto
 “Build what matters. Solve real problems. Let your code inspire progress.”
 
